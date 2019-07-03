@@ -1,0 +1,6 @@
+framework module Pods_Clock_Tranning_AppTests {
+  umbrella header "Pods-Clock Tranning AppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

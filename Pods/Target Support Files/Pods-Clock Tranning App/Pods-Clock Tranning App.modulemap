@@ -1,0 +1,6 @@
+framework module Pods_Clock_Tranning_App {
+  umbrella header "Pods-Clock Tranning App-umbrella.h"
+
+  export *
+  module * { export * }
+}
